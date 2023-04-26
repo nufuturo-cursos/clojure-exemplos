@@ -1,0 +1,2 @@
+{:deps
+    {ring/ring {:mvn/version "1.10.0"}}}

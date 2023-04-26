@@ -1,0 +1,2 @@
+{:deps
+ {io.github.daltonserey/time-lib {:git/tag "v0.0.1" :git/sha "accbe43"}}}
